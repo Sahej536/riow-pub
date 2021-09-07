@@ -1,4 +1,5 @@
 # Day 1
+Create a new folder in your public repo named 100days and in that folder create a new folder named day1 and in that folder create a new file named readme.md.
 
 ## Video 1
 Write your impression of what you will learn in this course
@@ -14,22 +15,28 @@ Which of any do you feel you will implement
 ## Quiz 1
 Take the quiz and post your score. 
 
+## Video 4
+Write down a few of your thoughts about the day's goals
+
 ## Video 5
 Following along with the video, create your repl.it account and fork the assignment and code along with Angela. 
 
-Once you have your code working create a new file in this folder and name it d1v6.py and copy the code you wrote in repl.it into the python file.  
+Once you have your code working create a new file in this folder and name it v6.py and copy the code you wrote in repl.it into the python file.  
 
-The output here you just need to write soemthing like "Python file creation complete and code runs without errors" 
+In your readme.md under this video heading write something like "code runs successfully without error and new python file created".  
+
 
 ## Video 6
-Follow along with the video and fork the assignment folder and once you have completed the challenge then create a new python file in this folder and name it d1ex1.py.
+Follow along with the video and fork the assignment folder and once you have completed the challenge then create a new python file in this folder and name it ex1.py.
 
-Do make sure you comment to show your code for the challenge and then comment to show the solution code from Angelia.
+Do make sure you comment to show your code for the challenge and then comment to show the solution code from Angela.
 
 The output here you just need to write soemthing like "First Coding Exercise complete", you can also write anything you want me to know about getting this work done.
 
+Commit your changes with the message "Code up to first coding challenge"
+
 ## Video 7
-Code along with Angela in this video and once you have the Python code working, copy that code in the d1v6.py file and comment to show the new code. 
+Code along with Angela in this video and once you have the Python code working, copy that code in the v6.py file and use comments to show the new code. 
 
 
 ## Video 8

@@ -1,4 +1,5 @@
 # Day 2
+In your 100days folder create a new folder named day2 and in that folder create a new file named readme.md.
 
 ## Video 16
 Write something that comes to mind as you watch the overview of day 2
