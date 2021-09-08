@@ -40,30 +40,28 @@ Code along with Angela in this video and once you have the Python code working, 
 
 
 ## Video 8
-Fork and assignement and work thru the interactive coding excerise. Make sure you include comment to show your code and then comment to show the solution code.  Once your work is running without error then create a new python file here and name it d1ex2.py and copy your completed code into that python file. 
+Fork and assignement and work thru the interactive coding excerise. Make sure you include comment to show your code and then comment to show the solution code.  Once your work is running without error then create a new python file here and name it ex2.py and copy your completed code into that python file. 
 
 ## Video 9 
-Code along with Angelia and once complete update the d1v6.py file and comment to show the new code.
+Code along with Angelia and once complete update the v6.py file and comment to show the new code from this video. 
 
 ## Video 10
-Fork the assignment and work thru the interactive coding excerise.  Make sure you include comment to show your code and then comment to show the solution code.  Once your work is running without error then create a new python file here and name it d1ex3.py and copy your completed code into that python file.
+Fork the assignment and work thru the interactive coding excerise.  Make sure you include comment to show your code and then comment to show the solution code.  Once your work is running without error then create a new python file here and name it ex3.py and copy your completed code into that python file.
 
 ## Video 11
-Fork this assignment and work code along with the content, once complete and have working code, create a new python here and name it d1v11.py.  
+Fork this assignment and work code along with the content, once complete and have working code, create a new python here and name it v11.py.  
 
 ## Video 12
-Fork the assignment and work thru the interactive coding excerise.  Make sure you include comment to show your code and then comment to show the solution code.  Once your work is running without error then create a new python file here and name it d1ex4.py and copy your completed code into that python file.
+Fork the assignment and work thru the interactive coding excerise.  Make sure you include comment to show your code and then comment to show the solution code.  Once your work is running without error then create a new python file here and name it ex4.py and copy your completed code into that python file.
 
 ## Video 13
-Code along with Angelia and once complete update the d1v11.py file and comment to show the new code.
+Code along with Angelia and once complete update the v11.py file and comment to show the new code.
 
 ## Quiz 2
 Take the quiz and post your score this section of your notes
 
 ## Video 14
-Fork the starting code and write code to complete the excerise.  Make sure to add comments to show your code and then comments to show the solution code from Angela.  Once you have completed this work and have working code, create a new file name it d1final.py
+Fork the starting code and write code to complete the excerise.  Make sure to add comments to show your code and then comments to show the solution code from Angela.  Once you have completed this work and have working code, create a new file name it final.py
 
 ## Video 15
 Just make a short comment about completing this work.
-
-
