@@ -19,7 +19,7 @@ Take the quiz and post your score.
 Write down a few of your thoughts about the day's goals
 
 ## Video 5
-Following along with the video, create your repl.it account and fork the assignment and code along with Angela. 
+Following along with the video, create your repl.it account and fork the assignment and code along with Dr. Angela. 
 
 Once you have your code working create a new file in this folder and name it v6.py and copy the code you wrote in repl.it into the python file.  
 
@@ -29,14 +29,14 @@ In your readme.md under this video heading write something like "code runs succe
 ## Video 6
 Follow along with the video and fork the assignment folder and once you have completed the challenge then create a new python file in this folder and name it ex1.py.
 
-Do make sure you comment to show your code for the challenge and then comment to show the solution code from Angela.
+Do make sure you comment to show your code for the challenge and then comment to show the solution code from Dr. Angela.
 
 The output here you just need to write soemthing like "First Coding Exercise complete", you can also write anything you want me to know about getting this work done.
 
 Commit your changes with the message "Code up to first coding challenge"
 
 ## Video 7
-Code along with Angela in this video and once you have the Python code working, copy that code in the v6.py file and use comments to show the new code. 
+Code along with Dr. Angela in this video and once you have the Python code working, copy that code in the v6.py file and use comments to show the new code. 
 
 
 ## Video 8
@@ -61,7 +61,7 @@ Code along with Angelia and once complete update the v11.py file and comment to 
 Take the quiz and post your score this section of your notes
 
 ## Video 14
-Fork the starting code and write code to complete the excerise.  Make sure to add comments to show your code and then comments to show the solution code from Angela.  Once you have completed this work and have working code, create a new file name it final.py
+Fork the starting code and write code to complete the excerise.  Make sure to add comments to show your code and then comments to show the solution code from Dr. Angela.  Once you have completed this work and have working code, create a new file name it final.py
 
 ## Video 15
 Just make a short comment about completing this work.
