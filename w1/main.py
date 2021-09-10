@@ -1,1 +1,1 @@
-print("example of output")
+print("example of outputtest")
