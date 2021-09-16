@@ -1,5 +1,5 @@
 # Day 1
-Create a new folder in your public repo named 100days and in that folder create a new folder named day1 and in that folder create a new file named readme.md.
+Create a new folder in your private repo named 100days and in that folder create a new folder named day1 and in that folder create a new file named readme.md.
 
 ## Video 1
 Write your impression of what you will learn in this course
