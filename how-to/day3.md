@@ -38,8 +38,7 @@ Create a new python file named ex5.py and copy the starting code from repl.it.  
 Complete the git workflow with commit message = "Day 3 video 35 ICE Interactve Coding Exercise #5"
 
 # Video 36
-Createa a new python file named final.py and in that file write your code for this exercise and make sure you comment for where your code.  Once you get working code then 
+Create a new python file named final.py and in that file write your code for this final project for day 3 and make sure you comment your code and then comment and write the code solultion from Dr. Angela.  Complete the git workflow with commit message = "Day 3 video 36 Final Project"
 
 # Video 37
 How did you feel about this day's work! 
- 

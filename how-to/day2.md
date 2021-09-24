@@ -11,7 +11,7 @@ Fork the assignment file and code along with Dr Angela, once complete copy the c
 Take the quiz and post your score here.  
 
 ## Video 18
-Code along with Dr Angela and at the end copy you the code into v18.py file and comment to show the new code. 
+Fork the assignment file and code along with Dr Angela, once complete copy the code into a new file named v18.py. 
 
 ## Video 19
 Fork the excerise code and comment your coding attempt for the excerise, then watch the solution and write that code and make sure to comment to show this is Dr Angela code. Once your code runs successfully copy the code into a new file named ex1.py. 
