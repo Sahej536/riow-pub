@@ -1,5 +1,4 @@
 # Day 6
-
 In your 100days folder create a new folder named day6 and in that folder create a new file named readme.md.
 
 # Video 57
