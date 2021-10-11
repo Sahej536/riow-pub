@@ -24,7 +24,12 @@ Code along in the v39.py, once you have working code complete the git workflow w
 # Quiz 5
 Take the quiz and report your score here. 
 
-# video 44
+# Video 44
 Create a new python file named ex3.py and copy the starting code from repl.it.  Comment your code for solving the challenege and make sure you code runs, then comment and code along with Dr. Angela code solution.  
 Complete the git workflow with commit message = "Day 4 video 44 ICE Interactve Coding Exercise #3"
 
+# Video 45 
+Create a new python file named final.py and in that file write your code for this final project for day 3 and make sure you comment your code and then comment and write the code solultion from Dr. Angela.  Complete the git workflow with commit message = "Day 4 video 45 Final Project"
+
+# Video 46
+What is your reflection on day 4? Is it like working out?
